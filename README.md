@@ -37,7 +37,7 @@ O objetivo deste desafio é utilizar a tabela única de **Financial Sample** par
 
 5. **Transformação e Definição de Colunas**  
    Realizar a transformação, composição e definição das colunas para as tabelas de dimensão: **D_Produtos**, **D_Produtos_Detalhes**, **D_Descontos**, e **D_Detalhes**.
-   ![](1.jpeg)
+   ![](1.jpg)
 6. **Organização e Relacionamentos**  
    Organizar, estabelecer links e definir os relacionamentos entre as tabelas conforme o Star Schema.
 
