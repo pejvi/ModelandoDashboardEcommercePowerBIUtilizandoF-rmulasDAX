@@ -40,4 +40,4 @@ O objetivo deste desafio é utilizar a tabela única de **Financial Sample** par
 
 6. **Organização e Relacionamentos**  
    Organizar, estabelecer links e definir os relacionamentos entre as tabelas conforme o Star Schema.
-
+![](1.jpeg)
